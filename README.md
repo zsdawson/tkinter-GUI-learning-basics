@@ -1,5 +1,5 @@
 note oop needed to get
-
+kind of an ovbious note but at start i didnt know that and i thought it was just like some type of dot notation like in r
 
 # tkinter-GUI-learning-basics
 using modern the "Tkinter for busy python developers" book written by Mark Roseman
